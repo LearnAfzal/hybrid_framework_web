@@ -1,0 +1,3 @@
+username;password;expected_error
+"john";"john123";"Invalid login id/password"
+"jack";"jack123";"Invalid login id/password"
